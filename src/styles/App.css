@@ -1,1 +1,30 @@
 
+
+.parent {
+    
+    background-color: lightgreen;
+    width: 75%;
+    
+  }
+
+h1 {
+    padding-top: 15px;
+}
+  .child1 {
+    height: 5%;
+    width: 25%;
+    background-color: brown;
+    margin-bottom: 0;
+    }
+    .child2 {
+        height: 5%;
+        width: 25%;
+        background-color: yellow;
+        margin-top: 0;
+       }
+
+  button {
+    
+    cursor: pointer;
+    margin: 5px;
+  }
